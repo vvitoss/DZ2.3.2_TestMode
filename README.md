@@ -1,2 +1,2 @@
 # DZ2.3.2_TestMode
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+[![Java CI with Gradle](https://github.com/vvitoss/DZ2.3.2_TestMode/actions/workflows/gradle.yml/badge.svg?branch=main)]
